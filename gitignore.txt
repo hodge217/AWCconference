@@ -174,9 +174,9 @@ cython_debug/
 .pypirc
 
 # Ignore some directories
-Examples
-May2025
-Templates
-Documentation
-Miscellaneous_code
+Examples/
+May2025/
+Templates/
+Documentation/
+Miscellaneous_code/
 
