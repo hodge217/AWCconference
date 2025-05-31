@@ -176,9 +176,12 @@ cython_debug/
 # Ignore some directories
 Examples/
 May2025/
+October2025/
 Templates/
 Documentation/
 Miscellaneous_code/
 Images/
 Zoom links for May 2-3.docx
 4_MailerLite_email_tests.ipynb
+Mentor-mentee_matching/
+Posit_talk/
